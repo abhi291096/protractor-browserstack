@@ -11,7 +11,7 @@ pool:
 
 steps:
 - script: export BROWSERSTACK_USERNAME=abhishekmordani2
-- script: export BROWSERSTACK_ACCESS_KEY=fmoKDwWonczWxsfT4egK
+- script: export BROWSERSTACK_ACCESS_KEY=zHxH3WNeJSXg7iFQCAG3
 - script: echo Hello, world!
 - script: npm install
 - script: npm run single
